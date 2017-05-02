@@ -1,0 +1,16 @@
+{
+   "name"         : "static",
+   "version"      : "0.0.1",
+   "description"  : "Serve static pages module for my http and https servers",
+   "author"       : "Wal De Mar-Lad",
+   "license"      : "MIT",
+   "main"         : "index.js",
+   "repository"   : {
+      "type"      : "git",
+      "url"       : "https://github.com/wal-de-marlad/static-module.git"
+   },
+   "bugs"         : {
+      "url"       : "https://github.com/wal-de-marlad/static-module/issues",
+      "email"     : "wal.de.marlad@gmail.com"
+   }
+}
